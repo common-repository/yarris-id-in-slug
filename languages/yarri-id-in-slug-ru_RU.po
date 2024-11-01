@@ -1,0 +1,103 @@
+# Copyright (C) 2016 Yarri
+# This file is distributed under the same license as the Editorial Access Manager package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Yarri's Id in slug\n"
+"Report-Msgid-Bugs-To: http://en.yarri.org/issues\n"
+"POT-Creation-Date: 2015-06-29 10:27-0500\n"
+"PO-Revision-Date: 2016-03-07 12:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: Yarri <admin@yarri.org>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html_e;esc_html__;esc_attr__;esc_attr_e\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../yarri-id-in-slug.php:47
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../yarri-id-in-slug.php:55
+msgid "Position of the ID"
+msgstr "Расположение ID"
+
+#: ../yarri-id-in-slug.php:60
+msgid "ID before slug"
+msgstr "ID перед именем"
+
+#: ../yarri-id-in-slug.php:63
+msgid "ID after slug"
+msgstr "ID после имени"
+
+#: ../yarri-id-in-slug.php:68
+msgid "Separator"
+msgstr "Разделитель"
+
+#: ../yarri-id-in-slug.php:73
+msgid ""
+"e.g. \" \" (whitespace), \"_\" (underscore), \"-\" (hyphen) etc - anything "
+"you want. This will separate the id of the post from the slug. Also you can "
+"live it empty."
+msgstr ""
+"например, \" \" (пробел), \"_\" (подчёркивание), \"-\" (дефис) и т.д. - в "
+"принципе, всё, что угодно. Разделитель будет отделять ID записи от имени. "
+"Также можно оставить пустым."
+
+#: ../yarri-id-in-slug.php:81
+msgid "Save Changes"
+msgstr "Сохранить"
+
+#: ../yarri-id-in-slug.php:87
+msgid "If you find this plugin useful"
+msgstr "Если этот плагин Вам помог"
+
+#: ../yarri-id-in-slug.php:88
+msgid ""
+"you can help by sending a few dollars (or euros, pounds, rubles etc). If you "
+"send more than $10 (or its equivalent), we will place your link in the "
+"\"Thanks to...\" section. If you send more than $100, we will place your "
+"banner there. The largest donation (more than $100) will have the uppermost "
+"and largest banner placement. Thank you for your consideration."
+msgstr ""
+"Вы можете помочь нам поддерживать его, пожертвовав пару долларов (или евро, "
+"фунтов, рублей и т.п.). Если Вы пожертвовали более $10, мы поместим Вашу "
+"ссылку в раздел \"Благодарности\". Если Вы пожертвовали более $100, мы "
+"поместим Ваш баннер на этой странице. Тот, кто отправит самую большую сумму "
+"(более $100), получит самый большой и самый верхний баннер."
+
+#: ../yarri-id-in-slug.php:115
+msgid "Donate via PayPal"
+msgstr "Пожертвовать через PayPal"
+
+#: ../yarri-id-in-slug.php:130
+msgid "Donate via Yandex.Money"
+msgstr "Пожертвовать через Яндекс.Деньги"
+
+#: ../yarri-id-in-slug.php:139
+msgid "Thanks to"
+msgstr "Благодарности"
+
+#: ../yarri-id-in-slug.php:139
+msgid "Donate via other PS"
+msgstr "Другие способы поддержать"
+
+#: ../yarri-id-in-slug.php:139
+msgid ""
+"If you want to donate via other payment sistem, please,<br />contact us at "
+"<a href=\"http://en.yarri.org/contacts/\" target=\"_blank\" alt=\"Link will "
+"open in a new window\" title=\"Link will open in a new window\">Contacts "
+"Page</a>"
+msgstr ""
+"Если Вы хотите поддержать нас другими способами,<br />пожалуйста, свяжитесь "
+"с нами <a href=\"http://yarri.org/kontaktyi/\" target=\"_blank\" alt="
+"\"Ссылка откроется в новом окне\" title=\"Ссылка откроется в новом окне"
+"\">Здесь</a>"
